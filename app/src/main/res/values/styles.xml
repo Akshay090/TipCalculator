@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.DeviceDefault.Dialog.NoActionBar">
+        <!-- Customize your theme here. -->
+
+
+        <item name="android:colorBackground">@color/light</item>
+    </style>
+
+    <style name="custom" parent="AppTheme" />
+
+</resources>
